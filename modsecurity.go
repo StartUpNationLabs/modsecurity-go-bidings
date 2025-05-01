@@ -10,7 +10,7 @@
 
 // source: modsecurity.i
 
-package modsecurity
+package modsecurity_go_bindings
 
 /*
 #define intgo swig_intgo
