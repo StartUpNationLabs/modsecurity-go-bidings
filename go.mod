@@ -1,1 +1,1 @@
-module modsecurity-go-bindings
+module github.com/StartUpNationLabs/modsecurity-go-bidings
